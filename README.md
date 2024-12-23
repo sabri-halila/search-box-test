@@ -17,7 +17,7 @@ This project is a simple search application built with Vue.js 3. It allows users
 ### **1. Clone the Repository**
 ```bash
 git clone https://github.com/sabri-halila/search-box-test.git
-cd search-highlight-app 
+cd search-box-test 
 ```
 
 ### **2. Install Dependencies**
