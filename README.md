@@ -40,4 +40,3 @@ http://localhost:8080
 
 ### **Notes**
 - Ensure you have Node.js and npm installed before proceeding with the setup.
-- Replace `your-username` with your actual GitHub username in the repository link.
